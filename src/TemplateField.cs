@@ -9,7 +9,6 @@
     [DebuggerDisplay("{Name} {FieldType}")]
     public class TemplateField : ItemBase
     {
-
         /// <summary>
         /// Gets or sets the Name of the Field
         /// </summary>

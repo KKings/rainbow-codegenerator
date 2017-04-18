@@ -1,0 +1,8 @@
+{
+    "destination": "E:\\Projects\\Habitat\\src\\Feature\\Accounts\\code",
+    "source": "E:\\Projects\\Habitat\\src\\Feature\\Accounts\\serialization",
+    "helpers": "E:\\Projects\\Habitat\\unicorn.helpers.js",
+    "filename": "Models.Generated.cs",
+    "template": "./templates/codegen.handlebars",
+    "generator": "E:\\Projects\\Habitat\\rp.exe"
+}
