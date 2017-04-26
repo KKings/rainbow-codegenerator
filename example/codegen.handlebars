@@ -58,7 +58,7 @@ namespace Models.{{ Namespace }}
     [SitecoreType(TemplateId="{{Item.Id}}")]
     public partial class {{ ClassName }} : GlassBase, {{ InterfaceName }}
     {
-        public const string TemplateIdString = "{{Item.TemplateId}}"
+        public const string TemplateIdString = "{{Item.TemplateId}}";
         public static readonly ID TemplateId = new ID(TemplateIdString);
         public const string TemplateName = "{{Item.Name}}";
 
